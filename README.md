@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/SamBeirne/sambeirne.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Sam Beirne is a game designer from [Washington](https://en.wikipedia.org/wiki/Washington_%28U.S._state%29). He is currently employed by [ArenaNet](https://www.arena.net/), a subsidiary of [NCsoft](http://www.ncsoft.com/) and the creator of [Guild Wars](https://www.guildwars2.com/), as a member of the design team.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Before joining ArenaNet, Sam worked for Griptonite Games where he was a designer on five handheld titles based on popular feature film properties including James Bond, Star Wars, and Pirates of the Caribbean for the Nintendo DS and Game Boy Advance.
 
-### Markdown
+## Games
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SamBeirne/sambeirne.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Guild Wars 2: Path of Fire](https://www.guildwars2.com/path-of-fire/)
+- [Guild Wars 2: Heart of Thorns](https://heartofthorns.guildwars2.com/)
+- [Guild Wars 2](https://www.guildwars2.com/)
+- [Guild Wars: Eye of the North](https://wiki.guildwars.com/wiki/Guild_Wars_Eye_of_the_North)
+- Pirates of the Caribbean: At World's End (Nintendo DS)
+- Pirates of the Caribbean: Dead Man's Chest (Nintendo DS)
+- Lego Star Wars: The Video Game (Game Boy Advance)
+- Robots (Game Boy Advance, Nintendo DS)
+- James Bond 007: Everything or Nothing (Game Boy Advance)
