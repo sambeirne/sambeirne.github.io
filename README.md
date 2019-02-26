@@ -2,7 +2,7 @@
 
 Sam Beirne is a game designer from Western Washington. He has more than 15 years of professional experience and has contributed to 9 titles.
 
-For employment inquiries, he may be reached via [LinkedIn](https://www.linkedin.com/in/sambeirne).
+For employment related inquiries, he may be reached via [LinkedIn](https://www.linkedin.com/in/sambeirne).
 
 ## Games
 
