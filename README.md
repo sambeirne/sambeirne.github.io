@@ -16,9 +16,9 @@ For employment related inquiries, he may be reached via [LinkedIn](https://www.l
 - Robots (Game Boy Advance, Nintendo DS)
 - James Bond 007: Everything or Nothing (Game Boy Advance)
 
-##Experience
+## Experience
 
-###Game Designer, ArenaNet
+### Game Designer, ArenaNet
 Bellevue, WA — May 2007 - March 2019
 
 - Contributed to every modality of Guild Wars 2, an MMO enjoyed by more than 11 million players worldwide, from conception to launch and live support
@@ -31,7 +31,7 @@ Bellevue, WA — May 2007 - March 2019
 - Worked with the tools team to develop Guild Wars 2’s content design software; created functional UI mockups using Microsoft WPF; go-between for design and programming departments
 - Scripted content for game modes including single-player story, competitive player vs. player, open world, dungeons, and player and creature skills using ArenaNet’s proprietary toolset
 
-###Game Designer, Griptonite Games
+### Game Designer, Griptonite Games
 Kirkland, WA — June 2004 - May 2007
 
 - Authored pitch documents that secured funding for new projects
@@ -40,24 +40,24 @@ Kirkland, WA — June 2004 - May 2007
 - Guided development of a brand new Nintendo DS level scripting tool that was used to ship numerous future games as the primary design contact on the project
 - Designed, built, and scripted levels for Game Boy Advance and Nintendo DS titles
 
-###Assistant Software Engineer, The Software Revolution
+### Assistant Software Engineer, The Software Revolution
 Kirkland, WA — October 2003 - June 2004
 
 - Expanded the company’s code modernization capabilities by authoring Java libraries to support Fortran intrinsic functions
 - Enhanced the source code documentation generator with intuitive navigation controls such as links from code flowcharts and mouse-over code hints
 
-###Game Designer, Griptonite Games
+### Game Designer, Griptonite Games
 Kirkland, WA — May 2003 - September 2003
 
 - Designed, built, and scripted levels for the Game Boy Advance
 
-###Assistant Software Engineer, The Software Revolution
+### Assistant Software Engineer, The Software Revolution
 Bothell, WA — June 2002 - September 2002
 
 - Improved C++ modernized National Endowment for the Arts database software transformed from a 650,000 line-of-code legacy Cobol system by documenting, fixing, and testing bugs
 
-##Education
-###Bellevue College
+## Education
+### Bellevue College
 AA, Digital Gaming
 
 Phi Theta Kappa
