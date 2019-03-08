@@ -23,12 +23,12 @@ Bellevue, WA — May 2007 - March 2019
 
 - Contributed to every modality of Guild Wars 2, an MMO enjoyed by more than 11 million players worldwide, from conception to launch and live support
 - Designed game systems that were the foundation of content development and worked alongside engineers to bring them to fruition and make them accessible to other designers
-- Mentored new designers, some of whom went on to leadership positions
 - Led multidisciplinary teams to develop features including single-player/co-op story, creature artificial intelligence, and dynamic content systems, among others
+- Design lead on the Guild Wars 2 content tools team; created functional UI mockups using Microsoft WPF; go-between for design and programming departments
+- Mentored new designers, some of whom went on to leadership positions
 - Story and open world design on Guild Wars 2 Living World episodes, continuous releases that generate ongoing revenue
 - Open world design on the Heart of Thorns and Path of Fire expansion packs
 - Competitive multiplayer design on Edge of the Mists, a World vs. World (large scale team based PvP) map
-- Worked with the tools team to develop Guild Wars 2’s content design software; created functional UI mockups using Microsoft WPF; go-between for design and programming departments
 - Scripted content for game modes including single-player story, competitive player vs. player, open world, dungeons, and player and creature skills using ArenaNet’s proprietary toolset
 
 ### Game Designer, Griptonite Games
