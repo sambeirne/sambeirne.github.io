@@ -1,6 +1,6 @@
 ## About
 
-Game Designer with more than 15 years of professional experience and skills in leadership and mentoring, content/mission design, gameplay scripting, systems design, tools, and online game services.
+Manager & Designer with more than 15 years of professional experience in game development and creating engaging and exciting experiences for users on a variety of platforms. Skills in project management, leadership, mentoring, game design, content/mission design, gameplay scripting, systems design, tools, and online services. Interested in applying my unique background and talents to new and interesting challenges.
 
 For employment related inquiries, contact via [LinkedIn](https://www.linkedin.com/in/sambeirne).
 
@@ -18,20 +18,22 @@ For employment related inquiries, contact via [LinkedIn](https://www.linkedin.co
 
 ## Experience
 
-### Game Designer, ArenaNet
+### Manager | Game Designer, ArenaNet
 Bellevue, WA — May 2007 - March 2019
 
-- Contributed to every modality of Guild Wars 2, an MMO enjoyed by more than 11 million players worldwide, from conception to launch and live support
-- Designed game systems that were the foundation of content development and worked alongside engineers to bring them to fruition and make them accessible to other designers
-- Led multidisciplinary teams to develop features including single-player/co-op story, creature artificial intelligence, and dynamic content systems, among others
-- Design lead on the Guild Wars 2 content tools team; created functional UI mockups using Microsoft WPF; go-between for design and programming departments
+- Contributed to every mode of Guild Wars 2, a massively multiplayer online game (MMO) enjoyed by more than 11 million players worldwide, from conception to launch and live support
+- Worked in both manager and implementer roles, adapting to project needs
+- Designed foundational tools and game systems and worked alongside engineers to bring them to fruition and make them accessible to other developers
+- Led multidisciplinary teams to develop features including story, creature artificial intelligence, and dynamic content systems, among others
+- Fostered a safe environment where team members felt comfortable expressing their ideas, making mistakes, and learning from them
+- Spearheaded experimental prototype development
 - Mentored new designers, some of whom went on to leadership positions
-- Story and open world design on Guild Wars 2 Living World episodes, continuous releases that generate ongoing revenue
-- Open world design on the Heart of Thorns and Path of Fire expansion packs
-- Competitive multiplayer design on Edge of the Mists, a World vs. World (large scale team based PvP) map
-- Scripted content for game modes including single-player story, competitive player vs. player, open world, dungeons, and player and creature skills using ArenaNet’s proprietary toolset
+- Implemented gameplay using ArenaNet’s proprietary toolset and open source tools
+- Supported the game post launch as a designer on expansions and “Living World” episodes, continuous releases that generated ongoing revenue
+- Collaborated with analytics to identify ways to improve the live game and future releases
+- Managed team schedules to ensure on time launches with an emphasis on quality
 
-### Game Designer, Griptonite Games
+### Manager | Game Designer, Griptonite Games
 Kirkland, WA — June 2004 - May 2007
 
 - Authored pitch documents that secured funding for new projects
@@ -40,7 +42,7 @@ Kirkland, WA — June 2004 - May 2007
 - Guided development of a brand new Nintendo DS level scripting tool that was used to ship numerous future games as the primary design contact on the project
 - Designed, built, and scripted levels for Game Boy Advance and Nintendo DS titles
 
-### Assistant Software Engineer, The Software Revolution
+### Associate Software Engineer, The Software Revolution
 Kirkland, WA — October 2003 - June 2004
 
 - Expanded the company’s code modernization capabilities by authoring Java libraries to support Fortran intrinsic functions
@@ -51,7 +53,7 @@ Kirkland, WA — May 2003 - September 2003
 
 - Designed, built, and scripted levels for the Game Boy Advance
 
-### Assistant Software Engineer, The Software Revolution
+### Associate Software Engineer, The Software Revolution
 Bothell, WA — June 2002 - September 2002
 
 - Improved C++ modernized National Endowment for the Arts database software transformed from a 650,000 line-of-code legacy Cobol system by documenting, fixing, and testing bugs
