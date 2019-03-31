@@ -16,7 +16,9 @@ For employment related inquiries, contact via [LinkedIn](https://www.linkedin.co
 - Robots (Game Boy Advance, Nintendo DS)
 - James Bond 007: Everything or Nothing (Game Boy Advance)
 
-<div class="video-responsive"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL5Lsn8hYS_n0GNvilE3bh4c2wCRb9T3jr" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-responsive noprint">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL5Lsn8hYS_n0GNvilE3bh4c2wCRb9T3jr" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Experience
 
