@@ -1,6 +1,6 @@
 ## About
 
-Manager & Designer with more than 15 years of professional experience in game development and creating engaging and exciting experiences for users on a variety of platforms. Skills in project management, leadership, mentoring, game design, content/mission design, gameplay scripting, systems design, tools, and online services. Interested in applying my unique background and talents to new and interesting challenges.
+Manager & Designer with more than 15 years of professional experience in game development and creating engaging and exciting products for users on a variety of platforms. Skills in project management, leadership, mentoring, game design, content/mission design, gameplay scripting, systems design, tools, and online services. Interested in applying my unique background and talents to new and interesting challenges.
 
 For employment related inquiries, contact via [LinkedIn](https://www.linkedin.com/in/sambeirne).
 
