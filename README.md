@@ -6,10 +6,6 @@ For employment related inquiries, contact via [LinkedIn](https://www.linkedin.co
 
 ## Games
 
-<div class="video-responsive noprint">
-  <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PL5Lsn8hYS_n0GNvilE3bh4c2wCRb9T3jr" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 - Guild Wars 2: Path of Fire
 - Guild Wars 2: Heart of Thorns
 - Guild Wars 2
@@ -19,3 +15,7 @@ For employment related inquiries, contact via [LinkedIn](https://www.linkedin.co
 - Lego Star Wars: The Video Game (Game Boy Advance)
 - Robots (Game Boy Advance, Nintendo DS)
 - James Bond 007: Everything or Nothing (Game Boy Advance)
+
+<div class="video-responsive noprint">
+  <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PL5Lsn8hYS_n0GNvilE3bh4c2wCRb9T3jr" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
