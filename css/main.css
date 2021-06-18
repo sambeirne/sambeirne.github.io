@@ -96,3 +96,8 @@ a {
         display:none;
     }
 }
+
+.resume-logo {
+    width: 8rem;
+    height: 100%;
+}
