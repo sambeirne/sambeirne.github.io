@@ -1,0 +1,32 @@
+header {
+    .portrait {
+        display: flex;
+        justify-content: center;
+
+        img {
+            border-radius: 50%;
+            width: 16rem;
+            height: 100%;
+        }
+    }
+    
+    .social {
+        img {
+            .icon {
+                width: 2rem;
+                height: 2rem;
+            }
+        }
+
+        ul {
+            padding: 0;
+            margin: 2rem 0;
+            text-align: center;
+            
+            li {
+                display: inline;
+                padding: 0 1rem;
+            }
+        }
+    }
+}
