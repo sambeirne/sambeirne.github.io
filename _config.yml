@@ -1,0 +1,11 @@
+title: Sam Beirne
+description: Seasoned product leader with experience in AAA game production, project and product management, developer tools, and cloud services. Committed to helping innovative cross-functional teams craft viable strategies, solve complex problems, and deliver compelling results.
+url: https://www.sambeirne.com
+author:
+  name: Sam Beirne
+  url: https://www.sambeirne.com
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
