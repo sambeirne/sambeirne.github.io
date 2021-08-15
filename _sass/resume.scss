@@ -1,0 +1,18 @@
+.resume {
+    img {
+        width: 8rem;
+        height: 100%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .games {
+        display: flex;
+        justify-content: center;
+        
+        li {
+            padding: .25rem;
+        }
+    }
+}
