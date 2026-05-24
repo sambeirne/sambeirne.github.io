@@ -2,27 +2,51 @@
 layout: default
 title: Sam Beirne
 ---
-<div class="container">
-    <div class="row my-4">
-        <div class="col text-center">
-            <h1 class="display-1">Sam Beirne</h1>
-            <a title="LinkedIn" href="https://www.linkedin.com/in/sambeirne/">
-                <img alt="LinkedIn" src="assets/images/linkedin.svg" width="24" />
-            </a>
+<div id="hero" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img
+                srcset="{{ '/assets/images/hero1_540.jpg' | relative_url }} 960w,
+                        {{ '/assets/images/hero1_720.jpg' | relative_url }} 1280w,
+                        {{ '/assets/images/hero1.jpg' | relative_url }} 1920w"
+                sizes="100vw"
+                src="{{ '/assets/images/hero1.jpg' | relative_url }}"
+                class="d-block w-100 object-fit-cover"
+                style="max-height: 75vh;"
+                alt="Oculus Studios">
         </div>
-    </div>
-    <div class="row">
-        <div class="col col-lg-8 mx-auto">
-            <div class="embed-container noprint">
-                <div class="video-responsive noprint">
-                    <iframe
-                        src="https://www.youtube-nocookie.com/embed/videoseries?list=PL5Lsn8hYS_n0GNvilE3bh4c2wCRb9T3jr"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen
-                    >
-                    </iframe>
-                </div>
-            </div>
+        <div class="carousel-item">
+            <img
+                srcset="{{ '/assets/images/hero2_540.jpg' | relative_url }} 960w,
+                        {{ '/assets/images/hero2_720.jpg' | relative_url }} 1280w,
+                        {{ '/assets/images/hero2.jpg' | relative_url }} 1920w"
+                sizes="100vw"
+                src="{{ '/assets/images/hero2.jpg' | relative_url }}"
+                class="d-block w-100 object-fit-cover"
+                style="max-height: 75vh;"
+                alt="Unity">
+        </div>
+        <div class="carousel-item">
+            <img
+                srcset="{{ '/assets/images/hero3_540.jpg' | relative_url }} 960w,
+                        {{ '/assets/images/hero3_720.jpg' | relative_url }} 1280w,
+                        {{ '/assets/images/hero3.jpg' | relative_url }} 1920w"
+                sizes="100vw"
+                src="{{ '/assets/images/hero3.jpg' | relative_url }}"
+                class="d-block w-100 object-fit-cover"
+                style="max-height: 75vh;"
+                alt="ArenaNet">
+        </div>
+        <div class="carousel-item">
+            <img
+                srcset="{{ '/assets/images/hero4_540.jpg' | relative_url }} 960w,
+                        {{ '/assets/images/hero4_720.jpg' | relative_url }} 1280w,
+                        {{ '/assets/images/hero4.jpg' | relative_url }} 1920w"
+                sizes="100vw"
+                src="{{ '/assets/images/hero4.jpg' | relative_url }}"
+                class="d-block w-100 object-fit-cover"
+                style="max-height: 75vh;"
+                alt="Griptonite">
         </div>
     </div>
 </div>
