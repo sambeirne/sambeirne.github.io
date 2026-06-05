@@ -54,7 +54,7 @@ title: Sam Beirne
 <div class="container">
     <div class="row mt-4">
         <div class="col">
-            <h2>About</h2>
+            <h2 class="text-center">About</h2>
             <p>
                 By the time I graduated from high school, I was determined to work in the game industry. I grew up in the suburbs of Seattle, which many game developers, including luminaries like Nintendo and Valve, called home. It seemed within reach, though I had no idea how I’d get there.
             </p>
@@ -191,17 +191,23 @@ title: Sam Beirne
     </div>
     <div class="row">
         <div class="col">
-            <h2>Contact</h2>
+            <h2 class="text-center">Contact</h2>
             <p>
                 I’m currently seeking new opportunities. If I could be a good fit for your team, please contact me using the form below. I look forward to hearing from you.
             </p>
-            <form class="form-floating">
-                <input type="text" class="form-control" id="name">
-                <label for="name">Your name</label>
-                <input type="email" class="form-control" id="email">
-                <label for="email">Email address</label>
-                <textarea class="form-control" id="Message"></textarea>
-                <label for="message">Message</label>
+            <form>
+                <div class="form-floating mb-3">
+                    <input type="text" class="form-control" id="name">
+                    <label for="name">Your name</label>
+                </div>
+                <div class="form-floating mb-3">
+                    <input type="email" class="form-control" id="email">
+                    <label for="email">Email address</label>
+                </div>
+                <div class="form-floating mb-3">
+                    <textarea class="form-control" id="message"></textarea>
+                    <label for="message">Message</label>
+                </div>
                 <button type="submit" class="btn btn-primary">Send message</button>
             </form>
         </div>
