@@ -203,17 +203,17 @@ title: Sam Beirne
             <p>
                 I’m currently seeking new opportunities. If I could be a good fit for your team, please contact me using the form below. I look forward to hearing from you.
             </p>
-            <form>
+            <form action="https://contact.sambeirne.com" method="post">
                 <div class="form-floating mb-3">
-                    <input type="text" class="form-control" id="name" placeholder="Your Name">
+                    <input type="text" class="form-control" id="name" name="name" placeholder="Your Name" required>
                     <label for="name">Your name</label>
                 </div>
                 <div class="form-floating mb-3">
-                    <input type="email" class="form-control" id="email" placeholder="name@example.com">
+                    <input type="email" class="form-control" id="email" name="email" placeholder="name@example.com" required>
                     <label for="email">Email address</label>
                 </div>
                 <div class="form-floating mb-3">
-                    <textarea class="form-control" id="message" placeholder="Message." style="height: 8rem;"></textarea>
+                    <textarea class="form-control" id="message" name="message" placeholder="Message." style="height: 8rem;" required></textarea>
                     <label for="message">Message</label>
                 </div>
                 <div class="d-grid">
